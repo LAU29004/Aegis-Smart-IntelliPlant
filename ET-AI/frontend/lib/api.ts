@@ -4,7 +4,8 @@ import { useCallback, useEffect, useState } from "react";
 import type { User } from "./types";
 import { googleLogout } from "@react-oauth/google";
 export const API_BASE =
-  process.env.NEXT_PUBLIC_API_BASE ?? "http://localhost:8000/api/v1";
+  process.env.NEXT_PUBLIC_API_BASE ||
+  "http://localhost:8000/api/v1";
 
 const TOKEN_KEY = "intelliplant_token";
 const USER_KEY = "intelliplant_user";
