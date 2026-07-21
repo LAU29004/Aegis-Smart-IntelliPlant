@@ -93,3 +93,18 @@ Thumbs.db
 .idea/
 *.suo
 *.swp
+
+# Firebase secrets
+backend/serviceAccountKey.json
+**/serviceAccountKey.json
+**/google-services.json
+
+# Environment files
+.env
+.env.*
+*.env
+!.env.example
+
+# Android signing
+*.keystore
+*.jks

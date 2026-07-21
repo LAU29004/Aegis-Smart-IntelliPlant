@@ -174,4 +174,5 @@ MAINTENANCE_SCAN_INTERVAL_MINUTES = int(
 CORS_ORIGINS = [
     "http://localhost:3000",
     "http://127.0.0.1:3000",
+    "https://aegis-smart-intelli-plant-vert.vercel.app"
 ]

@@ -4,3 +4,17 @@ out/
 *.tsbuildinfo
 next-env.d.ts
 .env*.local
+# Firebase Secrets
+backend/serviceAccountKey.json
+**/serviceAccountKey.json
+**/google-services.json
+
+# Environment files
+*.env
+.env
+.env.*
+!.env.example
+
+# Android signing
+*.keystore
+*.jks
