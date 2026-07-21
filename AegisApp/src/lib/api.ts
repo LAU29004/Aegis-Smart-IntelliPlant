@@ -16,7 +16,7 @@ import type { User } from './types';
 
 export const API_BASE = __DEV__
   ? 'http://10.107.180.120:8000/api/v1'
-  : 'https://your-production-domain.com/api/v1';
+  : 'https://aegis-smart-intelliplant.onrender.com/api/v1';
 
 export class ApiError extends Error {
   status: number;
