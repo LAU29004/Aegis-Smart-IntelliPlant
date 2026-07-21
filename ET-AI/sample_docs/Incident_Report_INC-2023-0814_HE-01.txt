@@ -1,0 +1,41 @@
+INCIDENT REPORT INC-2023-0814
+Plant: PLANT-01 | Equipment: HE-01 (Shell and Tube Heat Exchanger, Line 3)
+Date of incident: 14 August 2023 | Severity: High | Type: Unplanned outage
+
+DESCRIPTION
+Line 3 was shut down for 22 hours due to severe fouling of heat exchanger
+HE-01. Process outlet temperature exceeded the high alarm limit and could
+not be controlled. On opening, the tube bundle was found heavily fouled
+with scale and biological growth on the cooling water side.
+
+PRECURSOR CONDITIONS (from operations log review)
+- Ambient temperature remained above 38 degC for six consecutive days
+  before the incident.
+- Cooling water flow rate had dropped to 82% of design value over the
+  preceding week due to a partially blocked inlet strainer.
+- Similar precursor conditions were recorded before the fouling events of
+  July 2021 (INC-2021-0722) and September 2022 (INC-2022-0918).
+
+ROOT CAUSE
+Reduced cooling water velocity during sustained high ambient temperature
+accelerated scale deposition and biofouling. Inlet strainer blockage was
+the initiating condition.
+
+CORRECTIVE ACTIONS
+1. Tube bundle chemically cleaned and hydro-jetted.
+2. Cooling water inlet strainer cleaning frequency increased to weekly
+   during summer months (April to September).
+3. Low-flow alarm set at 88% of design cooling water flow.
+4. Biocide dosing program reviewed with water treatment vendor.
+
+OUTCOME
+Unplanned downtime of 22 hours (within the 18-24 hour range of the two
+previous fouling incidents). No injury. Production loss approximately
+180 tonnes.
+
+LESSON LEARNED
+When ambient temperature exceeds 38 degC for 5 or more consecutive days
+AND cooling water flow falls below 85% of design, HE-01 fouling risk is
+high. Inspect the cooling water inlet strainer immediately.
+
+Reported by: Anil Deshmukh | Approved by: Plant Manager

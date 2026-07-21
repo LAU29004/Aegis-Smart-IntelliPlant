@@ -1,0 +1,52 @@
+PLANT-01 MAINTENANCE LOG — JUNE 2026
+Department: Maintenance | Compiled by Supervisor: Rajesh Kumar
+
+-----------------------------------------------------------------------
+Entry 2026-06-03 | Equipment: C-201 (Air Compressor) | WO-2026-0603
+Type: Preventive Maintenance
+Quarterly PM completed. Air filter replaced, oil topped up, belt tension
+adjusted. Discharge pressure steady at 7.2 bar. No abnormalities.
+Technician: Suresh Patil
+
+-----------------------------------------------------------------------
+Entry 2026-06-09 | Equipment: B-02 (Boiler) | WO-2026-0609
+Type: Inspection
+Monthly boiler inspection. Safety valve manual lift test satisfactory.
+Feed water TDS within limits. Flue gas temperature 182 degC. Next
+statutory pressure vessel test due September 2026.
+Inspector: Anil Deshmukh
+
+-----------------------------------------------------------------------
+Entry 2026-06-14 | Equipment: P-101 (Cooling Water Pump) | WO-2026-0614
+Type: Breakdown / Failure
+FAILURE REPORT: Pump P-101 tripped on high seal leakage at 02:15 hrs on
+14 June 2026. Mechanical seal failure confirmed on strip-down.
+
+Root cause: Dry running of the mechanical seal due to low suction
+pressure. Suction strainer was found heavily blocked with debris,
+causing suction pressure to fall below the 1.5 bar minimum specified in
+the OEM manual. Seal faces showed heat damage consistent with dry running.
+
+Corrective action: Seal assembly MS-101-B replaced with new cartridge
+seal. Suction strainer cleaned and flushed. Suction line back-flushed.
+Suction pressure verified at 2.1 bar before restart. Strainer DP
+monitoring added to daily operator round.
+
+Equipment returned to service on 16 June 2026 after 48-hour observation
+period. No leakage observed.
+Downtime: 52 hours. Technician: Suresh Patil. Approved by: Rajesh Kumar
+
+-----------------------------------------------------------------------
+Entry 2026-06-21 | Equipment: HE-01 (Heat Exchanger) | WO-2026-0621
+Type: Inspection
+Cooling water outlet temperature trending 4 degC above normal for this
+ambient. Flow rate at 87% of design. Recommend strainer inspection if
+trend continues. Watch item raised.
+Inspector: Anil Deshmukh
+
+-----------------------------------------------------------------------
+Entry 2026-06-27 | Equipment: M-305 (Conveyor Motor) | WO-2026-0627
+Type: Repair
+Motor cooling fan cowl replaced after damage noticed during round.
+Winding temperature normal. No production impact.
+Technician: Vikram Joshi

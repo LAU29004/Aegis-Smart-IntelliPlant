@@ -1,0 +1,38 @@
+QUARTERLY INSPECTION REPORT — Q2 2026 (April to June 2026)
+Plant: PLANT-01 | Prepared by Inspector: Anil Deshmukh | Date: 2026-07-02
+
+SCOPE
+Statutory and condition inspections completed for rotating and static
+equipment in the Utility Block and Line 3.
+
+FINDINGS
+
+P-101 (Cooling Water Pump)
+Post-repair inspection after the June 2026 mechanical seal failure
+(WO-2026-0614) satisfactory. Suction pressure 2.1 bar, vibration 3.1 mm/s.
+NOTE: bearing failure history (WO-2024-0905, WO-2025-0412, WO-2025-1120)
+shows a repeating ~7 month interval. Grease analysis confirmed water
+ingress. Recommend bearing inspection within 30 days and permanent seal
+water deflector. Refer OEM Manual Section 4.3.
+
+B-02 (Boiler)
+Internal inspection satisfactory. Statutory pressure vessel hydrotest due
+September 2026 — schedule with competent person. Safety valve pop test
+completed 2026-06-09.
+
+HE-01 (Heat Exchanger)
+Outlet temperature trending high; cooling water flow at 87% of design.
+Summer fouling precursor conditions developing — see lesson learned from
+INC-2023-0814. Strainer inspection recommended immediately.
+
+C-201 (Air Compressor)
+Vibration 5.2 mm/s, above the 4.5 mm/s guideline. Trend monitoring
+initiated; alignment check planned in next PM window.
+
+T-401 (Storage Tank)
+External visual inspection satisfactory. Next OISD-129 external
+inspection due March 2027.
+
+CT-01 (Cooling Tower)
+Fill condition acceptable. Drift eliminators partially clogged; cleaning
+recommended before peak summer load.

@@ -1,0 +1,29 @@
+PLANT-01 — EQUIPMENT FAILURE HISTORY EXTRACT
+Equipment: P-101 Cooling Water Pump (Model CP-450X)
+Subject: Bearing failure records 2024–2025
+
+-----------------------------------------------------------------------
+Record 2024-09-05 | WO-2024-0905 | Type: Breakdown / Failure
+Drive-end bearing failure on P-101. High vibration (9.8 mm/s) and bearing
+housing temperature 92 degC. Bearing SKF 6312 replaced. Grease found
+darkened — possible contamination. Pump realigned. Downtime 14 hours.
+Technician: Suresh Patil
+
+-----------------------------------------------------------------------
+Record 2025-04-12 | WO-2025-0412 | Type: Breakdown / Failure
+Repeat drive-end bearing failure on P-101, seven months after previous
+replacement. Vibration rose over two weeks from 4.2 to 8.5 mm/s. Bearing
+replaced. Laser alignment done; slight soft foot corrected. Lubrication
+schedule reviewed. Downtime 12 hours.
+Technician: Vikram Joshi
+
+-----------------------------------------------------------------------
+Record 2025-11-20 | WO-2025-1120 | Type: Breakdown / Failure
+Third drive-end bearing failure on P-101 within fifteen months. Failure
+interval again approximately seven months. Bearing and grease samples
+sent for analysis: water ingress detected in grease. Suspected seal
+water spray entering the bearing housing. Deflector installed as interim
+measure. OEM manual Section 4.3 notes that repeat failures at intervals
+below 12 months indicate a systemic cause requiring root cause
+investigation. RCA recommended.
+Downtime 16 hours. Technician: Suresh Patil. Approved by: Rajesh Kumar
