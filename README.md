@@ -33,18 +33,21 @@ intelliplant/
 
 ---
 
----
-
 # 🌐 Live Demo
 
-### 🔗 Web Application
+### 🌍 Live Web Application
 https://aegis-smart-intelli-plant-vert.vercel.app/
 
 ### 🚀 Backend API
 https://aegis-smart-intelliplant.onrender.com/
 
-### 📚 Interactive API Documentation (Swagger)
+### 📚 Swagger API Documentation
 https://aegis-smart-intelliplant.onrender.com/docs
+
+### 📱 Android APK
+https://drive.google.com/file/d/11Q6_j9rXdGo_9WI8xJnRCObw6qgnfy6p/view?usp=drive_link
+
+> Download the APK, install it on an Android device, and log in using the email and give notification permission to experience IntelliPlant's mobile features, including real-time alerts and push notifications.
 
 ---
 ## 🚀 Quick Start
