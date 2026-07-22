@@ -160,18 +160,12 @@ Full endpoint reference: [docs/API_CONTRACT.md](docs/API_CONTRACT.md)
 
 Deliberate prototype substitutions (all behind interfaces, swappable without API changes):
 
+- React Native And NextJs based Smart Application Prototype.
 - SQLite ↔ PostgreSQL
 - Built-in vector store ↔ ChromaDB
 - BackgroundTasks ↔ Redis/Celery
 - Local storage/uploads ↔ S3
 - Regex NER ↔ spaCy model
-
-OCR (Tesseract) and the React Native mobile app are documented extension points, not included in this prototype.
+- OCR Teserract
 
 ---
-
-## 🛠️ Internal Links & Documentation
-
-- **Frontend Configuration**: [frontend/README.md](frontend/README.md)
-- **API Reference**: [docs/API_CONTRACT.md](docs/API_CONTRACT.md)
-- **Main Backend Config**: [backend/app/config.py](backend/app/config.py)
