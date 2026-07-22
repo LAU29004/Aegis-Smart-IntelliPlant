@@ -33,6 +33,20 @@ intelliplant/
 
 ---
 
+---
+
+# 🌐 Live Demo
+
+### 🔗 Web Application
+https://aegis-smart-intelli-plant-vert.vercel.app/
+
+### 🚀 Backend API
+https://aegis-smart-intelliplant.onrender.com/
+
+### 📚 Interactive API Documentation (Swagger)
+https://aegis-smart-intelliplant.onrender.com/docs
+
+---
 ## 🚀 Quick Start
 
 ### 1. Backend (port 8000)
