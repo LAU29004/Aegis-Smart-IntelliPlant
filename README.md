@@ -66,8 +66,6 @@ uvicorn app.main:app --port 8000
 > [!NOTE]
 > First startup seeds the demo plant (users, equipment, history, alerts, certifications, incidents) and **auto-indexes everything in `sample_docs/`** — the Copilot is instantly usable.
 >
-> Interactive API docs: http://localhost:8000/docs
-
 ### 2. Frontend (port 3000)
 
 ```powershell
