@@ -47,6 +47,8 @@ https://aegis-smart-intelliplant.onrender.com/docs
 ### 📱 Android APK
 https://drive.google.com/file/d/11Q6_j9rXdGo_9WI8xJnRCObw6qgnfy6p/view?usp=drive_link
 
+### 📚 Full endpoint reference: [docs/API_CONTRACT.md](docs/API_CONTRACT.md)
+
 > Download the APK, install it on an Android device, and log in using the email and give notification permission to experience IntelliPlant's mobile features, including real-time alerts and push notifications.
 
 ---
